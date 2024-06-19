@@ -75,6 +75,7 @@ Click the "Add Job" button to open the modal for adding a new job.
 Fill in the job details and click "Save" to add the job to the featured jobs list.
 
 SCREENSHOTS.
+
 ![image](https://github.com/2004-russell/rn-assignment4-11288670/assets/151689516/9a223558-e60e-4aa4-a602-b6a9e6379966)
 ![image](https://github.com/2004-russell/rn-assignment4-11288670/assets/151689516/554db155-a198-4742-a999-239ffd8c93a6)
 ![image](https://github.com/2004-russell/rn-assignment4-11288670/assets/151689516/d913c05f-2b6d-4735-9d1f-a5fa3d7e2f28)
